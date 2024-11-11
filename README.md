@@ -1,12 +1,44 @@
--CSS (643 lines):--- I aimed to develop a cohesive and visually engaging design that reflects the restaurant's brand and atmosphere. I utilized:
-Flexbox and Grid:- or a responsive layout, ensuring it adapts to various screen sizes while maintaining the original design aesthetic.
-Custom animations:- for hover effects on buttons, images, and navigation elements, creating a lively feel that encourages user interaction.
-Consistent styling:- across color schemes, typography, and spacing to enhance the user experience, making it both intuitive and appealing.
+# Restaurant Website
 
-HTML (256 lines):--- I structured the site for simplicity and functionality. My main objectives were:
-Semantic HTML:- Providing a clear structure for search engines and screen readers, which improves accessibility and SEO.
-Modular content sections:- Organizing the restaurant’s information into logical parts—Home, Menu, About Us, and Contact—to guide users smoothly.
+A modern, responsive website for a restaurant, designed to provide an engaging user experience and showcase the restaurant's brand and offerings. This project was built using HTML, CSS, and JavaScript, focusing on accessibility, responsiveness, and interactive elements.
 
-JavaScript (44 lines):--- I incorporated light interactivity to enhance the site without overwhelming users, including:
-Smooth scrolling effects:- for a seamless experience when navigating between sections.
-Dynamic content display:- with simple event listeners for interactive menu items and contact forms, ensuring quick and fluid responses.
+## Demo
+*Link to the live website demo (if available)*
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Code Structure](#code-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+### CSS (643 lines)
+- **Responsive Layout**: Implemented using Flexbox and Grid to ensure seamless adaptation across various screen sizes.
+- **Custom Animations**: Added hover effects on buttons, images, and navigation to encourage user engagement.
+- **Consistent Styling**: Harmonized color schemes, typography, and spacing to create a cohesive and appealing design.
+
+### HTML (256 lines)
+- **Semantic Structure**: Used semantic HTML tags to improve accessibility and SEO.
+- **Modular Sections**: Structured content into logical sections (Home, Menu, About Us, Contact) for smooth navigation.
+
+### JavaScript (44 lines)
+- **Smooth Scrolling**: Added smooth scrolling to enhance user experience when navigating between sections.
+- **Dynamic Content Display**: Used simple event listeners to add interactivity to menu items and contact forms.
+
+## Technologies Used
+
+- **HTML5**: For a well-structured, semantic layout.
+- **CSS3**: Including Flexbox, Grid, and custom animations for responsive design.
+- **JavaScript (ES6)**: For adding light interactivity and smooth transitions.
+
+## Setup
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/restaurant-website.git

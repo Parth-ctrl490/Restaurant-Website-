@@ -1,4 +1,4 @@
-//Select element function
+
 const selectElement = function (element){
     return document.querySelector(element);
 
@@ -11,7 +11,7 @@ menuToggler.addEventListener('click', function () {
     body.classList.toggle('open');
 });
 
-//Scroll reveal
+
 window.sr=ScrollReveal();
 
 sr.reveal('.animate-left', {
